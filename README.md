@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![My Tech Stack]
+(https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&bg=%230D1117&badge=%23161B22&border=%2321262D&titleColor=%2358A6FF&line1=html5%2Chtml5%2CD2371D%3Bcss3%2Ccss3%2C2B81C5%3Bjavascript%2Cjavascript%2CEAD219%3Breact%2Creact%2C51C9EF%3Bredux%2Credux%2C5F30A7%3Bnode.js%2Cnode.js%2C84AE3D%3Bexpress%2Cexpress%2C3BA668%3Bmongodb%2Cmongodb%2C22E54E%3Bgit%2Cgit%2CD73625%3Bfigma%2Cfigma%2C9C8AD3%3Bnetlify%2Cnetlify%2C17B59F%3Bpostman%2Cpostman%2CF2512A%3Bslack%2Cslack%2C61006C%3Bgooglecloud%2Cgoogle+cloud%2C0C69F5%3B)
