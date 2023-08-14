@@ -8,7 +8,7 @@
  ## Currently learning
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
- ### 💼 [My portfolio](https://antoniagranit.netlify.app)
+ ### 💼 <a href="https://antoniagranit.netlify.app" target="_blank">My portfolio</a>
 
 
 
